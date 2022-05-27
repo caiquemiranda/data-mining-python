@@ -1,1 +1,1 @@
-# data-mining-python
+# python-data-mining
